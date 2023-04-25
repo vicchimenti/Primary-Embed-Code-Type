@@ -1,4 +1,4 @@
-.standardContent p.embedLink {
+.embedCodeWrapper .standardContent p.embedLink {
     font-size: 1.6rem;
     font-weight: 500;
     line-height: 1.6;
@@ -7,7 +7,7 @@
 }
 
 
-a {
+.embedCodeWrapper .standardContent .embedLink a {
     color: #088099;
     font-size: 1.6rem;
     font-weight: 500;
